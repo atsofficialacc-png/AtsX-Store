@@ -1,0 +1,13 @@
+{
+  "name":"AtsX Store",
+  "short_name":"AtsX Store",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#321e43",
+  "theme_color":"#321e43",
+  "description":"AtsX Store",
+  "icons":[
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
